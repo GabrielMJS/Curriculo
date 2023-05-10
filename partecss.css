@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(44, 39, 39);
+}
+.foto{
+    height:250px;
+    position: relative;
+    margin-top: 10%;
+    margin: 55px;   
+}
+.imgfac{
+    height:100px ;
+    margin-left: 20%;
+}
+.divla{
+    display: flex;
+    margin: 20px;
+    flex-direction: row;
+    background-color: black; 
+    margin-bottom: 20px; 
+}
+.grad{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.fotosgrad{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.Cabeçalho{
+    display: flex;
+    flex-direction:column;
+    background-color: rgb(105, 101, 101);
+}
+.imgcab{
+    display: flex;
+    flex-direction:column;
+}
+.infcab{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+}
+
+.redes{
+    text-align: center;
+}
+.Princ{
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    
+
+}
+.contatos{
+    height: 40px;
+    margin-left: 20px; 
+}
+.hab{
+    margin: 25px;
+}
